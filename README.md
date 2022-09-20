@@ -15,7 +15,7 @@ export AWS_SECRET_ACCESS_KEY='EKv...' ## put your value here
 
 B. and the name of your bucket:
 ```
-BUCKET="cds-office-hours-bucket-2022-09-20"
+BUCKET="cds-bucket-name-here..."
 ```
 
 C. and run
